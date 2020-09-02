@@ -1,0 +1,32 @@
+body{
+    background-image: url(img.jpg);
+}
+.container{
+    margin: 0 auto;
+    width: 400px;
+    height: 400px;
+    background-color: rgb(205, 224, 133);
+    text-align: center;
+}
+.title{
+    margin: 50px;
+    padding: 30px;
+    font-family: Arial;
+    font-weight: bold;
+    
+   
+}
+.box table{
+    height: 180px;
+    margin: 50px 30px 50px 60px;
+    width: 200px;
+}
+input[type=text]{
+    background-color: rgb(252, 247, 247);
+    color: rgb(0, 0, 0);
+}
+input[type=button]{
+    background-color: rgb(252, 247, 247);
+    color: rgb(0, 0, 0);
+}
+
